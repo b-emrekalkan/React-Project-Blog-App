@@ -11,7 +11,7 @@ Project aims to create a FireBlog App.
 ## Project Skeleton
 
 ```
-007 - FireBlog App (folder)
+   FireBlog App (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
